@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Eu codifico com</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -61,4 +61,4 @@
 
 <img src="https://raw.githubusercontent.com/MatheusAnimacaoCraft/MatheusAnimacaoCraft/output/snake.svg" alt="Snake animation" />
 
-###
+##
