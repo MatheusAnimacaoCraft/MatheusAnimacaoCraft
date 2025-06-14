@@ -1,5 +1,5 @@
-## Boas vindas ao meus perfil 🎥<p align="left"><br>Meus nome é Matheus!<br><br>-Estudante da Alura<br>-Desenvolvemento de Linguagem JavaScript HTML CSS<br>-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.<br><br>
-### Você entrar em contato comigo 📫<br><br>matheuscustodio706@gmail.com<br><br>[@AnimacaoCraftBR](https://www.youtube.com/@AnimacaoCraftBR)</p>
+## Boas vindas ao meus perfil 🎥<p align="left"><br>Meu nome é Matheus 👋<br><br>-Estudante na Alura<br>-Focado em desenvolvimento com JavaScript HTML CSS<br>-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.<br><br>
+### 📫 Entre em contato comigo:<br><br>matheuscustodio706@gmail.com<br><br>[@AnimacaoCraftBR](https://www.youtube.com/@AnimacaoCraftBR)</p>
 
 ###
 
